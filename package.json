@@ -1,0 +1,37 @@
+{
+  "name": "angular2samples",
+  "version": "1.0.0",
+  "description": "Angular2 Basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arameshraju/angular2samples.git"
+  },
+  "keywords": [
+    "Angularjs2"
+  ],
+  "author": "Ramesh.Raju.Alluri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arameshraju/angular2samples/issues"
+  },
+  "homepage": "https://github.com/arameshraju/angular2samples#readme",
+  "dependencies": {
+    "@angular/common": "^2.3.1",
+    "@angular/compiler": "^2.3.1",
+    "@angular/core": "^2.3.1",
+    "@angular/platform-browser": "^2.3.1",
+    "@angular/platform-browser-dynamic": "^2.3.1",
+    "es5-shim": "^4.5.9",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.0-rc.4",
+    "systemjs": "^0.19.41",
+    "zone.js": "^0.7.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
